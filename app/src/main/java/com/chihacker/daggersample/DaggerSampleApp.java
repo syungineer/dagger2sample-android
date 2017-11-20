@@ -15,6 +15,8 @@ import dagger.android.HasActivityInjector;
  * Created by chihacker on 2017. 8. 13..
  */
 
+// pull request test
+
 public class DaggerSampleApp extends Application implements HasActivityInjector {
 
     @Inject
